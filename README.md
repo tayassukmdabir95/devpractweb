@@ -66,7 +66,7 @@ Browse different development technologies organized into categories such as:
 - Database
 - Development Tools
 
-Each technology provides useful information including its:
+Each technology provides useful information including:
 
 - Name
 - Description
@@ -124,12 +124,10 @@ Interactive actions provide visual feedback using toast notifications, making it
 
 The project uses the following major dependencies and development tools:
 
-```text
-React
-React DOM
-React Toastify
-Vite
-
+- **React**
+- **React DOM**
+- **React Toastify**
+- **Vite**
 
 > Exact package versions are available in `package.json`.
 
