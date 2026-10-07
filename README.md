@@ -129,3 +129,16 @@ React
 React DOM
 React Toastify
 Vite
+
+
+> Exact package versions are available in `package.json`.
+
+---
+
+## Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/tayassukmdabir95/devpractweb.git
+cd devpractweb
