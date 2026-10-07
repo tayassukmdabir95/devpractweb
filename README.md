@@ -45,7 +45,7 @@ The project focuses on:
 ### Project Screenshot
 
 <p align="center">
-  <img src="./screenshots/devstack-home.png" alt="Dev Stack Homepage" width="100%">
+  <img src="ss1.png" alt="Dev Stack Homepage" width="100%">
 </p>
 
 ### Live Demo
